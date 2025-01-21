@@ -79,4 +79,3 @@ if __name__ == "__main__":
     modl = model([S, I, R], (0.5, 0.1) )
     modl.run_model(100, 100)
 
-# Test (Nick)
